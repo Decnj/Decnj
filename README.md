@@ -12,9 +12,11 @@ If you’re looking for a DevOps Engineer to automate repetitive tasks, manage i
 
 #### 🛠️ Tech Stack
 
-- **Cloud:** AWS  
-- **DevOps:** Docker, Terraform, Jenkins, Ansible  
-- **Programming:** Python
+- **Cloud:** AWS, GCP  
+- **DevOps:** Linux, Computer Networks, Docker, Terraform, Jenkins
+- **Secrets:** Vault, AWS Secrets Manager
+- **Programming:** Python, Javascript
+- **Monitoring & Logging:** Promtail, Loki, Prometheus, Grafana
 
 ---
 
@@ -25,6 +27,9 @@ If you’re looking for a DevOps Engineer to automate repetitive tasks, manage i
 
 - **CI/CD Automation:**  
   Set up CI/CD pipelines to automate testing and deployment for Websites, Databases, APIs, Containers and more so changes get updated automatically.
+
+- **Monitoring & Logging:**
+  Implement centralized monitoring solutions to track system health, performance, and availability across Virtual Machines, Databases, APIs, and Containers. Configure logging pipelines to capture application and infrastructure logs, integrate with tools like Prometheus, Grafana, and set up alerts to proactively identify and resolve issues.
 
 ---
 
